@@ -1,6 +1,6 @@
 # Devops-Monitoring-Platform
 
-##Descriere
+## Descrierea Proiectului
 Sistem centralizat pentru monitorizare infrastructurii și aplicațiilor,cu pipeline-uri CI/CD automate,alertare inteligentă și vizualizare de metrici.
 
 ##Tehnologii:
