@@ -14,3 +14,4 @@ Sistem centralizat pentru monitorizare infrastructurii și aplicațiilor,cu pipe
 * Dashboard în timp real pentru metrici (CPU,RAM,latență).
 * Pipeline CI/CD (Build,Test,Deploy).
 * Alerte automate pe Slack și E-mail.
+* Căutare full-text în loguri și management de secrete.
